@@ -5,7 +5,8 @@ import {View} from "react-native-reanimated";
 const Home = () => {
     return(
         <View>
+        </View>
     )
 }
 
-export default Home
+export default Home;
